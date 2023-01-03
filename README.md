@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://prathamesh61.github.io)
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://shubhand17.github.io)
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?size=20&amp;lines=Hii!+I'm+Shubham+Anand!;Full+Stack+web+Developer...👨🏻‍💻;A+Mern+Stack+Developer" style="width: 100%;">
 
@@ -24,7 +24,7 @@ on experience in building websites from scratch. Seeking to leverage broad devel
 <h3 align="left">Connect with me:</h3>
 <hr/>
 <p align="left">
-<a href="www.linkedin.com/in/shubhanand007" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shubhanand007" /></a>
+<a href="https://www.linkedin.com/in/shubhanand007/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="shubhanand007" /></a>
 <a href="https://codesandbox.com/shubhand17" target="blank"><img align="center" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="Shubhand17" /></a>
 <a href="https://www.hackerrank.com/rawoolprathames1?hr_r=1" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@rawoolprathames1" /></a>
 </p>
